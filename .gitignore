@@ -1,0 +1,13 @@
+.DS_Store
+._*
+Thumbs.db
+.vscode/
+.idea/
+*.log
+.env
+.env.*
+
+# Next.js
+node_modules/
+.next/
+out/
